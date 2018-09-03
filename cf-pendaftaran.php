@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Cf Pendaftaran
-Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
+Plugin URI:   https://github.com/themedotid/cf-pendaftaran
 Description:  Untuk Belajar CF Processor
 Version:      10.0
 Author:       Hadie
